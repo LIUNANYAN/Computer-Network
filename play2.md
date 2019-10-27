@@ -12,3 +12,4 @@
  - 在**监督学习**中，模型的泛化误差可分解为....
 $$softmax(x_i) = \frac {e^{x_i}}{\sum_{j=0}^N{e^x_j}}$$  
 ### 导致偏差与方差的原因
+![公式](https://github.com/LIUNANYAN/Computer-Network/raw/master/images/CodeCogsEqn.gif)
